@@ -80,5 +80,5 @@ mvn surefire-report:report
 
 ## Autor
 
-[Tu Nombre] - Examen Final de Automatización de Pruebas
+Anyelo Bustos Galdames - Examen Final de Automatización de Pruebas
 
